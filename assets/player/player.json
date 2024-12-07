@@ -1,0 +1,25 @@
+{ "skeleton": { "images": "C:/Users/Tora/Documents/assets/player/images/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Слой 1", "bone": "root", "attachment": "Слой 1" },
+	{ "name": "Слой 3", "bone": "root", "attachment": "Слой 3" },
+	{ "name": "Слой 2", "bone": "root", "attachment": "Слой 2" }
+],
+"skins": {
+	"default": {
+		"Слой 1": {
+			"Слой 1": { "x": 120, "y": -200, "width": 242, "height": 402 }
+		},
+		"Слой 3": {
+			"Слой 3": { "x": 70, "y": -380, "width": 82, "height": 82 }
+		},
+		"Слой 2": {
+			"Слой 2": { "x": 170, "y": -380, "width": 82, "height": 82 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
